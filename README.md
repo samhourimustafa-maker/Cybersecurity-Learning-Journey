@@ -1,7 +1,7 @@
 # Cybersecurity-Learning-Journey
 Documenting my journey into IT and cybersecurity through CompTIA A+, networking, Linux, TryHackMe labs, and hands-on practice.
 
-My name is Mustafa. I am learning IT and cybersecurity step by step.
+My name is Mustafa Alsamhouri. I am learning IT and cybersecurity step by step.
 
 ## Current Topics
 - CompTIA A+
