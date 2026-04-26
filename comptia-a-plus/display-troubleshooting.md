@@ -1,7 +1,7 @@
 # Display Troubleshooting Notes
 
 ## Topic
-CompTIA A+ hardware troubleshooting
+CompTIA A+ display troubleshooting
 
 ## What I learned today
 - A dim laptop screen can be caused by a bad inverter or backlight issue.
